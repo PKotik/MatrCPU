@@ -1,0 +1,17 @@
+﻿  main.c
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(13,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(15,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(34,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(35,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(47,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(52,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(62,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(88,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(89,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(98,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(99,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(108,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PKotik\source\repos\MatrCPU\MatrCPU\main.c(112,27): warning C4018: <: несоответствие типов со знаком и без знака
+  MatrCPU.vcxproj -> C:\Users\PKotik\source\repos\MatrCPU\x64\Debug\MatrCPU.exe
